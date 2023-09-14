@@ -127,7 +127,7 @@ void print_Node() {
 int main() {
     int Input_Number;
     string Operation_Type;
-    ifstream File_Input("E:/chrome downloads/assignment 2/TestCases/01/Test05.txt");
+    ifstream File_Input("Location of file");
     Operation_Type = File_Input.get();
     while (Operation_Type != "E") {
         if (Operation_Type == "A") {
