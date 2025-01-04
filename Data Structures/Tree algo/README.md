@@ -6,3 +6,5 @@ Welcome to my repository of tree implementations for my university DSA course! H
 - Binary Search Tree (BST)
 - AVL Tree
 - N-arry tree
+- Expression Tree
+- Double Tree (problem)
